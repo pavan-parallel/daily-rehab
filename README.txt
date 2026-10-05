@@ -1,7 +1,10 @@
-DAILY REHAB
+DAILY REHAB — your complete strength, rehab and mobility plan
 
-Unzip this folder, then open index.html in a browser. The routines and exercise photos work offline. External E3 Rehab and research links need internet.
+Open index.html after extracting this folder. No installation or account is needed. Instructions and photos work offline; external sources/videos need internet. Changes stay in this open page and reset on a fresh load. Nothing records workouts.
 
-Choose Upper body, Lower body, or At home. Start with Ease in. Exercise details include easier options, progressions and source links.
+Upper A → Lower A → Upper B → Lower B → Upper C → Lower C, at your pace. Static HTML files contain each complete session if scripts are unavailable.
 
-This site stores no workout history or personal data. Photos belong to E3 Rehab; full source credits are in image-credits.json. This is an independent reference, not an official E3 or ATG program.
+Photos retain their original publisher attribution; see movement-credits.json. An image illustrates technique, not a diagnosis or medical assessment. Doses are authored synthesis.
+
+Independent reference, not affiliated with E3 Rehab or ATG. Hosting: https://pavan-parallel.github.io/daily-rehab/
+Release: 2026-10-05

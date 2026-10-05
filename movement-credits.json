@@ -1,0 +1,3238 @@
+{
+  "release": "2026-10-05",
+  "notice": "Photos belong to their credited creators. Source links and recorded rights information accompany each asset. No affiliation or endorsement is implied.",
+  "photos": [
+    {
+      "id": "ua_floor_press_default",
+      "reference": {
+        "url": "https://e3rehab.com/acromioclavicular-joint-injury/",
+        "label": "Bench press technique",
+        "match": "family",
+        "variant_note": "Use this plan’s comfortable bench-press range and prescribed effort."
+      },
+      "photo_alt": "Dumbbell bench press on a flat bench.",
+      "caption": "Flat bench press. Choose a comfortable grip and depth.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/acromioclavicular-joint-injury/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/02/C0578.00_16_40_29.Still044-scaled.jpeg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.508,
+        "y": 0.098,
+        "width": 0.434,
+        "height": 0.658
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/bench-press.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/acromioclavicular-joint-injury/"
+      }
+    },
+    {
+      "id": "ua_floor_press_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=7Q-VrNGgM2U",
+        "label": "Triceps Tendinopathy — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Horizontal machine pressing is discussed among alternatives, but an exact neutral-grip machine demonstration was not verified. Use the machine’s own setup instructions and the site’s cues; do not present this video as that exact machine."
+      },
+      "photo_alt": "Seated neutral-grip chest-press machine.",
+      "caption": "Adjust the seat and handles to a comfortable pressing path.",
+      "creator": "Five Elements Coaching",
+      "source_url": "https://www.youtube.com/watch?v=Heu3lKZqn-k",
+      "image_url": "https://i.ytimg.com/vi/Heu3lKZqn-k/hq720.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1280,
+      "image_height": 720,
+      "photo_path": "assets/upper/neutral-machine-press.jpg",
+      "credit": {
+        "name": "Five Elements Coaching",
+        "url": "https://www.youtube.com/watch?v=Heu3lKZqn-k"
+      }
+    },
+    {
+      "id": "ua_row_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "Shoulder Dislocation & Instability Rehab — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Exact bench angle, grip and simultaneous side execution were not frame-audited; follow the site’s both-arms-together prescription."
+      },
+      "photo_alt": "Chest-supported dumbbell row on an incline bench.",
+      "caption": "Keep the chest supported while rowing both dumbbells.",
+      "creator": "Off The Leash Lifestyle",
+      "source_url": "https://www.offtheleashlifestyle.com/training-videos/chest-supported-db-row",
+      "image_url": "https://cdn.prod.website-files.com/6226b0b761dfde8cb23709d2/6477ea3a207382e77f042cad_OTL-Chest-Supported-DB-Row.jpeg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1280,
+      "image_height": 720,
+      "photo_path": "assets/upper/incline-row.jpeg",
+      "credit": {
+        "name": "Off The Leash Lifestyle",
+        "url": "https://www.offtheleashlifestyle.com/training-videos/chest-supported-db-row"
+      }
+    },
+    {
+      "id": "ua_row_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "Shoulder Dislocation & Instability Rehab — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. This broader video covers shoulder pulling; it is not a verified match to the selected row machine. Seat, pad and handle adjustments are device-specific."
+      },
+      "photo_alt": "Seated chest-supported row machine.",
+      "caption": "Adjust the chest pad and seat; keep the torso supported.",
+      "creator": "Aaron Sanchez",
+      "source_url": "https://vimeo.com/835229263",
+      "image_url": "https://i.vimeocdn.com/video/1682568753-4dadb89163dbc8eb183555d1c9f0bcd947b233f3c2d80be781176138fd7c040b-d",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/upper/machine-row.jpg",
+      "credit": {
+        "name": "Aaron Sanchez",
+        "url": "https://vimeo.com/835229263"
+      }
+    },
+    {
+      "id": "ua_scaption_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The site starts within a comfortable shoulder-height-or-lower arc; no higher demonstrated range is a target to copy."
+      },
+      "photo_alt": "Dumbbell scaption with arms slightly forward of the sides.",
+      "caption": "Lift only through your comfortable arc.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.07.50-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.016,
+        "y": 0.205,
+        "width": 0.3,
+        "height": 0.58
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/scaption.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "ua_scaption_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Same arm direction without external load. The tutorial includes loaded and higher-range examples; use only the site’s unloaded comfortable arc."
+      },
+      "photo_alt": "Scaption arm path demonstrated with dumbbells.",
+      "caption": "Follow this arm path without weights; use a lower comfortable arc.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.07.50-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.016,
+        "y": 0.205,
+        "width": 0.3,
+        "height": 0.58
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/scaption.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "ua_er_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. At-side cable external rotation is explicitly described in the official article. Optional towel/support and individual range come from the site; this does not imply a verified timestamp or personalized clearance."
+      },
+      "photo_alt": "Anchored shoulder external rotation with elbow at the side.",
+      "caption": "Same rotation pattern; use a cable at elbow height and support the elbow if needed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.05.02-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.338,
+        "y": 0.072,
+        "width": 0.646,
+        "height": 0.802
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/cuff-external.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "ua_er_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Anchored band external rotation with the elbow near the side is explicitly covered by the official article. This is not the two-hands-held loop-band warm-up."
+      },
+      "photo_alt": "Light-band shoulder external rotation at the side.",
+      "caption": "Rotate away from the anchor while keeping your elbow beside your ribs.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/731414914",
+      "image_url": "https://i.vimeocdn.com/video/1472053605-7596757ad125482b5a186bb8aa50fe10b9d9d69ed8263a1a9d08774cc4b65ae9-d?f=webp&region=us",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-731414914.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/731414914"
+      }
+    },
+    {
+      "id": "ua_triceps_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=7Q-VrNGgM2U",
+        "label": "Triceps Tendinopathy — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Use both arms together here; the accompanying E3 article also discusses one-arm versions and a different dose, which are not this prescription."
+      },
+      "photo_alt": "Standing cable triceps pressdown.",
+      "caption": "Keep upper arms near your sides and straighten the elbows.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/959227856",
+      "image_url": "https://i.vimeocdn.com/video/1871542311-27f74964031487f2319588be706836be15f2885bc58de8c1be24fce8f25a9b99-d?f=webp&region=us",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-959227856.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/959227856"
+      }
+    },
+    {
+      "id": "ua_triceps_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=7Q-VrNGgM2U",
+        "label": "Triceps Tendinopathy — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Band equipment adaptation of the pressdown family. The exact bilateral high-band setup is not frame-verified; use the site’s secure anchor, both-arm and elbow-arc instructions."
+      },
+      "photo_alt": "Standing band triceps pressdown.",
+      "caption": "Band anchored high; elbows stay near the ribs.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/triceps/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/TricepExercises.jpg?resize=750%2C422&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.504,
+        "width": 0.491,
+        "height": 0.486
+      },
+      "image_width": 750,
+      "image_height": 422,
+      "photo_path": "assets/upper/triceps.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/triceps/"
+      }
+    },
+    {
+      "id": "ua_wrist_ext_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Supported wrist extension with a dumbbell is explicitly described. Perform both wrists together here; the tutorial may demonstrate one wrist at a time."
+      },
+      "photo_alt": "Forearm-supported dumbbell wrist extension, palm down.",
+      "caption": "Support the forearm; lift the back of the hand.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Wrist-Flexion-and-Extension-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.504,
+        "width": 0.326,
+        "height": 0.486
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/wrist-options.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "ua_wrist_ext_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The site requires both supported wrists moving together, using two suitable bands/anchors; that simultaneous setup was not verified in the clip."
+      },
+      "photo_alt": "Forearm-supported band wrist extension, palm down.",
+      "caption": "Keep the palm down and the forearm still.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Wrist-Flexion-and-Extension-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.668,
+        "y": 0.504,
+        "width": 0.329,
+        "height": 0.486
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/wrist-options.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "ua_abs_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=BZYaCzbP09M",
+        "label": "Dead Bug — E3 Rehab",
+        "match": "family",
+        "variant_note": "Dedicated dead-bug clip. Arm elevation and leg lever can differ; follow the site’s comfortable arm position and controlled short reach."
+      },
+      "photo_alt": "Supine dead-bug starting position, knees bent and arms upright.",
+      "caption": "Move one heel at a time; use the shorter reach when prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/spondylolisthesis/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Untitled-design.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/upper/deadbug-easy.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/spondylolisthesis/"
+      }
+    },
+    {
+      "id": "ua_abs_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=BZYaCzbP09M",
+        "label": "Dead Bug — E3 Rehab",
+        "match": "family",
+        "variant_note": "Dead-bug family reference; a separate exact short heel-tap-with-arms-at-sides demonstration was not verified. Keep knees bent and use the site’s shorter reach."
+      },
+      "photo_alt": "Supine dead-bug starting position, knees bent and arms upright.",
+      "caption": "Move one heel at a time; use the shorter reach when prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/spondylolisthesis/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Untitled-design.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/upper/deadbug-easy.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/spondylolisthesis/"
+      }
+    },
+    {
+      "id": "ua_radial_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The E3 wrist article supplies lever/hammer/dowel options. The site specifies forearm support and a short light lever; standing arm-at-side examples are a different support setup."
+      },
+      "photo_alt": "Supported wrist radial deviation with a short weighted lever.",
+      "caption": "Lift toward the thumb side using a short lever.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Radial-and-Ulnar-Deviation-Strengthening-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.022,
+        "y": 0.107,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/radial-weight.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "ua_radial_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Use the site’s supported forearm and thumb-side motion; exact anchor/support geometry was not frame-audited."
+      },
+      "photo_alt": "Supported band radial deviation, thumb side lifting.",
+      "caption": "Move only the wrist toward the thumb side.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Radial-and-Umar-Deviation-Band-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.004,
+        "width": 0.492,
+        "height": 0.99
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/radial-band.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "la_squat_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "Use the goblet version with a comfortable depth. The optional heel wedge and this plan’s dose are separate."
+      },
+      "photo_alt": "Goblet squat holding a dumbbell at the chest.",
+      "caption": "Use a comfortable stance and depth.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/groin-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/07/Bodyweight-Squat-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.674,
+        "y": 0.206,
+        "width": 0.299,
+        "height": 0.584
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/groin-pain-rehab-41.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/groin-pain-rehab/"
+      }
+    },
+    {
+      "id": "la_squat_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=HfwExr3geIk",
+        "label": "Muscle & Strength — Belt Squat",
+        "match": "family",
+        "variant_note": "Use a purpose-built belt squat; follow this plan’s comfortable depth. Do not copy the article’s improvised two-bench suggestion."
+      },
+      "photo_alt": "Belt-squat machine with hands on the support.",
+      "caption": "Load through the belt and use the handles for balance.",
+      "creator": "Titan Fitness",
+      "source_url": "https://titan.fitness/products/belt-squat-machine",
+      "image_url": "https://titan.fitness/cdn/shop/files/401864_02.jpg?v=1724857600&width=1426",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1000,
+      "image_height": 1000,
+      "photo_path": "assets/lower/belt-squat.jpg",
+      "credit": {
+        "name": "Titan Fitness",
+        "url": "https://titan.fitness/products/belt-squat-machine"
+      }
+    },
+    {
+      "id": "la_rdl_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "Article explicitly permits dumbbells. Follow the plan’s comfortable hip hinge; no floor reach is required."
+      },
+      "photo_alt": "Dumbbell Romanian deadlift with hips back.",
+      "caption": "Keep the weights close and stop at a comfortable hamstring stretch.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/groin-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/07/RDLs-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.502,
+        "y": 0.004,
+        "width": 0.494,
+        "height": 0.987
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/groin-pain-rehab-55.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/groin-pain-rehab/"
+      }
+    },
+    {
+      "id": "la_rdl_alternative",
+      "reference": {
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/cable-pull-through/",
+        "label": "Muscle & Fitness — Cable Pull-Through",
+        "match": "family",
+        "variant_note": "Low cable and rope between the legs. Follow the plan’s comfortable hinge, not a forced end-range stretch."
+      },
+      "photo_alt": "Cable pull-through in the hinge position.",
+      "caption": "Let the hips move back, then stand tall; keep the rope between your legs.",
+      "creator": "Muscle & Fitness",
+      "source_url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/cable-pull-through/",
+      "image_url": "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2014/02/762_A.jpg?quality=86&strip=all",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 800,
+      "photo_path": "assets/lower/pullthrough-a.jpg",
+      "credit": {
+        "name": "Muscle & Fitness",
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/cable-pull-through/"
+      }
+    },
+    {
+      "id": "la_calf_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "The floor-level standing movement is shown. Machine setup varies: use both legs with a floor-level heel stop. Do not copy step/deficit variants or lower the heel below the forefoot."
+      },
+      "photo_alt": "Bilateral straight-knee calf raise from a flat floor.",
+      "caption": "Rise and lower from floor level. Add tolerable load only as prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Standing-Knee-Straight-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.018,
+        "y": 0.146,
+        "width": 0.21,
+        "height": 0.704
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-26.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "la_calf_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "Use stable hand support and flat ground. This plan does not use the later step/deficit progression."
+      },
+      "photo_alt": "Bilateral straight-knee calf raise from a flat floor.",
+      "caption": "Rise and lower from floor level. Add tolerable load only as prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Standing-Knee-Straight-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.018,
+        "y": 0.146,
+        "width": 0.21,
+        "height": 0.704
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-26.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "la_abduct_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "Ankle cuff, supported standing, one side at a time. Follow this plan’s range and dose."
+      },
+      "photo_alt": "Standing cable hip abduction using hand support.",
+      "caption": "Move the leg sideways without tipping the trunk.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/groin-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/07/Cable-Column-Hip-Abduction-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/groin-pain-rehab-29.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/groin-pain-rehab/"
+      }
+    },
+    {
+      "id": "la_abduct_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=7pbZA7ncuq8",
+        "label": "Muscle & Strength — Hip Abduction Machine",
+        "match": "family",
+        "variant_note": "Bilateral seated machine; select the starting width and range for comfort. Machine controls vary."
+      },
+      "photo_alt": "Seated hip-abduction machine, knees moving apart.",
+      "caption": "Sit comfortably and move the thighs outward.",
+      "creator": "Women’s Health Taiwan / Hearst",
+      "source_url": "https://www.womenshealthmag.com/tw/fitness/work-outs/g43382298/inner-outer-thigh/",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/41-6422c48ce6ecd.png",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1600,
+      "image_height": 800,
+      "photo_path": "assets/lower/hip-machines.jpg",
+      "credit": {
+        "name": "Women’s Health Taiwan / Hearst",
+        "url": "https://www.womenshealthmag.com/tw/fitness/work-outs/g43382298/inner-outer-thigh/"
+      }
+    },
+    {
+      "id": "la_tib_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=gNS_QjGAs_k",
+        "label": "ATG — Knee Ability Zero, Step 1: Tibialis Raise",
+        "match": "family",
+        "variant_note": "Back against the wall, heels stay planted, forefeet lift together. Follow the dose here; ATG’s broader injury-prevention claims are not being adopted."
+      },
+      "photo_alt": "Wall-supported tibialis raise with heels on the floor.",
+      "caption": "Lean against the wall and lift the forefeet; keep heels down.",
+      "creator": "ATG / Ben Patrick",
+      "source_url": "https://app.atgonlinecoaching.com/articles/article-chapter-1-of-the-knee-ability-zero-picture-book",
+      "image_url": "https://images.ctfassets.net/fl2s6k0j0ayn/4ILb3LvuM09hp4TuBlwukJ/0245561edc6dffb5ab53b486ef7f030e/image.png",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 592,
+      "image_height": 1045,
+      "photo_path": "assets/lower/atgtib-1.png",
+      "credit": {
+        "name": "ATG / Ben Patrick",
+        "url": "https://app.atgonlinecoaching.com/articles/article-chapter-1-of-the-knee-ability-zero-picture-book"
+      }
+    },
+    {
+      "id": "la_tib_alternative",
+      "reference": {
+        "url": "https://www.worcsacute.nhs.uk/leaflets/ankle-sprain/",
+        "label": "Worcestershire Acute Hospitals NHS Trust — Ankle Sprain exercise illustrations",
+        "match": "family",
+        "variant_note": "Seated band dorsiflexion; one foot at a time. The reference shows the upward foot movement against a band; use the plan’s stable anchor and dose."
+      },
+      "photo_alt": "Seated resisted ankle dorsiflexion.",
+      "caption": "Pull the toes toward the shin against the band.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/lateral-ankle-sprain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Lateral-Ankle-Sprain-Ankle-Strengthening-1024x576.jpg?resize=800%2C450&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.366,
+        "width": 0.241,
+        "height": 0.427
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/ankle-bands.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/lateral-ankle-sprain-rehab/"
+      }
+    },
+    {
+      "id": "la_invert_default",
+      "reference": {
+        "url": "https://www.worcsacute.nhs.uk/leaflets/ankle-sprain/",
+        "label": "Worcestershire Acute Hospitals NHS Trust — Ankle Sprain exercise illustrations",
+        "match": "family",
+        "variant_note": "Keep the heel and leg still while the inside of the foot turns inward. This is inversion, not whole-leg rotation."
+      },
+      "photo_alt": "Seated band ankle inversion.",
+      "caption": "Turn the sole inward in a controlled arc.",
+      "creator": "Rehab Hero",
+      "source_url": "https://www.rehabhero.ca/exercise/ankle-lnversion-with-band",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5f5e8592d2b0854b18af6975/0ca939e3-8565-41af-9e7b-0ce12d4d229f/Ankle%2BInversion%2Bwith%2BBand.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 847,
+      "image_height": 635,
+      "photo_path": "assets/lower/band-inversion.jpg",
+      "credit": {
+        "name": "Rehab Hero",
+        "url": "https://www.rehabhero.ca/exercise/ankle-lnversion-with-band"
+      }
+    },
+    {
+      "id": "la_invert_alternative",
+      "reference": {
+        "url": "https://www.worcsacute.nhs.uk/leaflets/ankle-sprain/",
+        "label": "Worcestershire Acute Hospitals NHS Trust — Ankle Sprain exercise illustrations",
+        "match": "family",
+        "variant_note": "Same inversion movement with a lighter band and shorter comfortable arc."
+      },
+      "photo_alt": "Seated band ankle inversion.",
+      "caption": "Turn the sole inward in a controlled arc.",
+      "creator": "Rehab Hero",
+      "source_url": "https://www.rehabhero.ca/exercise/ankle-lnversion-with-band",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5f5e8592d2b0854b18af6975/0ca939e3-8565-41af-9e7b-0ce12d4d229f/Ankle%2BInversion%2Bwith%2BBand.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 847,
+      "image_height": 635,
+      "photo_path": "assets/lower/band-inversion.jpg",
+      "credit": {
+        "name": "Rehab Hero",
+        "url": "https://www.rehabhero.ca/exercise/ankle-lnversion-with-band"
+      }
+    },
+    {
+      "id": "la_abs_default",
+      "reference": {
+        "url": "https://www.acefitness.org/resources/everyone/exercise-library/52/crunch/",
+        "label": "American Council on Exercise — Crunch",
+        "match": "family",
+        "variant_note": "Reference demonstrates a bodyweight crunch with hands behind the head. Here arms remain comfortable and an optional light weight is held at the chest; avoid pulling the head."
+      },
+      "photo_alt": "Floor crunch with knees bent and arms crossed over the chest.",
+      "caption": "Curl the shoulder blades off the floor. Optional chest-held load is not pictured.",
+      "creator": "Motionsplan",
+      "source_url": "https://www.motionsplan.dk/oevelse/maveboejning/",
+      "image_url": "https://www.motionsplan.dk/assets/images/exercises/maveboejning-1.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1200,
+      "image_height": 800,
+      "photo_path": "assets/lower/floor-crunch-raised.jpg",
+      "credit": {
+        "name": "Motionsplan",
+        "url": "https://www.motionsplan.dk/oevelse/maveboejning/"
+      }
+    },
+    {
+      "id": "la_abs_alternative",
+      "reference": {
+        "url": "https://www.acefitness.org/resources/everyone/exercise-library/52/crunch/",
+        "label": "American Council on Exercise — Crunch",
+        "match": "family",
+        "variant_note": "Same bodyweight trunk curl, with arms in a comfortable position rather than requiring the demonstrated hands-behind-head position."
+      },
+      "photo_alt": "Floor crunch with knees bent and arms crossed over the chest.",
+      "caption": "Curl the shoulder blades off the floor. Optional chest-held load is not pictured.",
+      "creator": "Motionsplan",
+      "source_url": "https://www.motionsplan.dk/oevelse/maveboejning/",
+      "image_url": "https://www.motionsplan.dk/assets/images/exercises/maveboejning-1.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1200,
+      "image_height": 800,
+      "photo_path": "assets/lower/floor-crunch-raised.jpg",
+      "credit": {
+        "name": "Motionsplan",
+        "url": "https://www.motionsplan.dk/oevelse/maveboejning/"
+      }
+    },
+    {
+      "id": "ub_pulldown_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "Shoulder Dislocation & Instability Rehab — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The selected option permits a comfortable grip and reach; do not force overhead range shown in another person’s demonstration."
+      },
+      "photo_alt": "Seated lat-pulldown starting position.",
+      "caption": "Choose a comfortable grip and overhead reach; stop short of a painful catch.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/958026672",
+      "image_url": "https://i.vimeocdn.com/video/1870042736-013a5bc69ebe962759cad4d3f4cdf35ad3fd48292737cae4612c2bf9683c30a6-d?f=webp&region=us",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-958026672.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/958026672"
+      }
+    },
+    {
+      "id": "ub_pulldown_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "Shoulder Dislocation & Instability Rehab — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Same pulldown family with intentionally reduced overhead reach and load. An exact shortened-range clip was not verified."
+      },
+      "photo_alt": "Seated lat-pulldown starting position.",
+      "caption": "Choose a comfortable grip and overhead reach; stop short of a painful catch.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/958026672",
+      "image_url": "https://i.vimeocdn.com/video/1870042736-013a5bc69ebe962759cad4d3f4cdf35ad3fd48292737cae4612c2bf9683c30a6-d?f=webp&region=us",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-958026672.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/958026672"
+      }
+    },
+    {
+      "id": "ub_incline_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=es0ki8bxqSQ",
+        "label": "Incline Dumbbell Bench Press — E3 Rehab",
+        "match": "family",
+        "variant_note": "Dedicated incline dumbbell press. The site calls for a low incline, comfortable neutral/semi-neutral grip and limited depth; exact angle and grip in the clip were not frame-audited."
+      },
+      "photo_alt": "Dumbbell press on an inclined bench.",
+      "caption": "Use the lower bench angle and comfortable depth specified in your plan.",
+      "creator": "E3 Rehab",
+      "source_url": "https://www.youtube.com/watch?v=es0ki8bxqSQ",
+      "image_url": "https://i.ytimg.com/vi/es0ki8bxqSQ/maxresdefault.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1280,
+      "image_height": 720,
+      "photo_path": "assets/upper/yt-incline-press.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://www.youtube.com/watch?v=es0ki8bxqSQ"
+      }
+    },
+    {
+      "id": "ub_incline_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=JMAScWzf7n0",
+        "label": "Dumbbell Floor Press — E3 Rehab",
+        "match": "family",
+        "variant_note": "Floor-press demonstration. Keep the site’s neutral grip and floor-limited depth; the uploader title alone does not verify the exact grip or dumbbell entry method."
+      },
+      "photo_alt": "Dumbbell floor press with knees bent.",
+      "caption": "Optional floor-press variation; elbows stop at the floor.",
+      "creator": "E3 Rehab",
+      "source_url": "https://www.youtube.com/watch?v=JMAScWzf7n0",
+      "image_url": "https://i.ytimg.com/vi/JMAScWzf7n0/maxresdefault.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1280,
+      "image_height": 720,
+      "photo_path": "assets/upper/yt-floor-press.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://www.youtube.com/watch?v=JMAScWzf7n0"
+      }
+    },
+    {
+      "id": "ub_raise_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The official article explicitly describes dumbbell lateral raise to about shoulder height. This site retains an individually comfortable lower arc and does not prescribe the tutorial’s overhead progression."
+      },
+      "photo_alt": "Dumbbell lateral raise to shoulder level.",
+      "caption": "Raise through a comfortable arc; stop below shoulder height if needed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.07.35-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.089,
+        "y": 0.307,
+        "width": 0.435,
+        "height": 0.54
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/lateral-raise.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "ub_raise_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Scaption movement with a lower, lighter arc in this site. Do not copy higher-range demonstrations as a required goal."
+      },
+      "photo_alt": "Dumbbell scaption with arms slightly forward of the sides.",
+      "caption": "Lift only through your comfortable arc.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.07.50-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.016,
+        "y": 0.205,
+        "width": 0.3,
+        "height": 0.58
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/scaption.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "ub_ir_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Official article’s shoulder-rotation section explicitly describes cable or anchored-band internal rotation with elbow at the side. The broader video covers many other exercises; no exact starting timestamp was verified."
+      },
+      "photo_alt": "Anchored shoulder internal rotation with elbow at the side.",
+      "caption": "Stand with the working arm toward the anchor; rotate toward your stomach.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.06.42-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.369,
+        "y": 0.077,
+        "width": 0.62,
+        "height": 0.792
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/cuff-internal.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "ub_ir_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Official article’s shoulder-rotation section explicitly describes cable or anchored-band internal rotation with elbow at the side. The broader video covers many other exercises; no exact starting timestamp was verified."
+      },
+      "photo_alt": "Anchored shoulder internal rotation with elbow at the side.",
+      "caption": "Stand with the working arm toward the anchor; rotate toward your stomach.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.06.42-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.369,
+        "y": 0.077,
+        "width": 0.62,
+        "height": 0.792
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/cuff-internal.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "ub_curl_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=A2KxUaOdmWY",
+        "label": "Biceps Tendinopathy — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Both arms move together in this prescription; that exact side pattern was not frame-audited."
+      },
+      "photo_alt": "Standing dumbbell biceps curl with palms up.",
+      "caption": "Keep the upper arms near your sides.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/biceps-tendinopathy/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/01/Standing-Curls-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.005,
+        "y": 0.005,
+        "width": 0.485,
+        "height": 0.803
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/standing-curl.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/biceps-tendinopathy/"
+      }
+    },
+    {
+      "id": "ub_curl_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Retain simultaneous arms, neutral forearms and no swinging; do not silently alternate arms."
+      },
+      "photo_alt": "Simultaneous dumbbell hammer curl with neutral grip.",
+      "caption": "Keep thumbs up and curl both weights together.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/959200792",
+      "image_url": "https://i.vimeocdn.com/video/1871508772-e81eaf2e73b6b486b464c19d1f865faa1e478a174d8ae1edbeb958b281741ca6-d?f=webp&region=us",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-959200792.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/959200792"
+      }
+    },
+    {
+      "id": "ub_wrist_flex_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Both supported wrists move together here; no forced finger opening."
+      },
+      "photo_alt": "Forearm-supported dumbbell wrist flexion, palm up.",
+      "caption": "Support the forearm; curl the palm toward you.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Wrist-Flexion-and-Extension-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.003,
+        "width": 0.326,
+        "height": 0.49
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/wrist-options.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "ub_wrist_flex_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The simultaneous two-wrist setup is site-specific and was not frame-verified."
+      },
+      "photo_alt": "Forearm-supported band wrist flexion, palm up.",
+      "caption": "Keep the palm up and the forearm still.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Wrist-Flexion-and-Extension-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.668,
+        "y": 0.003,
+        "width": 0.329,
+        "height": 0.49
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/wrist-options.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "ub_ulnar_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Tutorial includes band ulnar-deviation options. The site uses a supported forearm and suitable lateral anchor; keep the small little-finger-side movement and chosen light range."
+      },
+      "photo_alt": "Supported wrist ulnar deviation with a weighted lever.",
+      "caption": "Move toward the little-finger side with a short, light lever.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Radial-and-Ulnar-Deviation-Strengthening-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.011,
+        "y": 0.576,
+        "width": 0.311,
+        "height": 0.287
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/radial-weight.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "ub_ulnar_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Tutorial includes band ulnar-deviation options. The site uses a supported forearm and suitable lateral anchor; keep the small little-finger-side movement and chosen light range."
+      },
+      "photo_alt": "Supported band ulnar deviation.",
+      "caption": "Move toward the little-finger side; keep the forearm still.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Radial-and-Ulnar-Deviation-Band-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.501,
+        "y": 0.005,
+        "width": 0.493,
+        "height": 0.985
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/ulnar-band.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "ub_abs_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=rRV5Q85hCMs",
+        "label": "Spondylolisthesis — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "The official exercise section describes a standing band Pallof press, while this option uses a cable. Match the standing repeated press, not the subsequent hold or half-kneeling examples."
+      },
+      "photo_alt": "Standing Pallof press with resistance pulling from the side.",
+      "caption": "Press straight ahead without turning; shorten the reach if prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/spondylolisthesis/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Untitled-design-14.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/upper/pallof.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/spondylolisthesis/"
+      }
+    },
+    {
+      "id": "ub_abs_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=rRV5Q85hCMs",
+        "label": "Spondylolisthesis — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Short-reach repeated Pallof press adaptation. The article’s full arm reach and timed-hold alternatives are not the site’s shorter-reach repetition prescription."
+      },
+      "photo_alt": "Standing Pallof press with resistance pulling from the side.",
+      "caption": "Press straight ahead without turning; shorten the reach if prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/spondylolisthesis/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Untitled-design-14.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/upper/pallof.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/spondylolisthesis/"
+      }
+    },
+    {
+      "id": "lb_split_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=4bNQITw0VdY",
+        "label": "E3 Rehab — How to Perform Split Squats",
+        "match": "family",
+        "variant_note": "Use stable hand support and both feet on the floor. Begin with the plan’s short comfortable range; the reference also shows deeper or elevated variations that are not automatic progressions."
+      },
+      "photo_alt": "Hand-supported split squat holding a dumbbell.",
+      "caption": "Use hand support and a comfortable depth; omit the load for the easier swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-perform-split-squats/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2026/03/Hand-Assisted-Split-Squat-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-perform-split-squats-40.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-perform-split-squats/"
+      }
+    },
+    {
+      "id": "lb_split_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=4bNQITw0VdY",
+        "label": "E3 Rehab — How to Perform Split Squats",
+        "match": "family",
+        "variant_note": "Use stable hand support and both feet on the floor. Begin with the plan’s short comfortable range; the reference also shows deeper or elevated variations that are not automatic progressions."
+      },
+      "photo_alt": "Hand-supported split squat holding a dumbbell.",
+      "caption": "Use hand support and a comfortable depth; omit the load for the easier swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-perform-split-squats/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2026/03/Hand-Assisted-Split-Squat-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-perform-split-squats-40.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-perform-split-squats/"
+      }
+    },
+    {
+      "id": "lb_curl_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=j8X3S98gOQE",
+        "label": "E3 Rehab — How to Grow Your Hamstrings",
+        "match": "family",
+        "variant_note": "Use the seated machine setup and comfortable range. Follow this plan’s dose and effort rather than copying video programming."
+      },
+      "photo_alt": "Seated leg-curl machine setup.",
+      "caption": "Keep the thigh pad secure; bend both knees against the resistance.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-grow-your-hamstrings/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/08/Seated-Hamstring-Curl-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-grow-your-hamstrings-32.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-grow-your-hamstrings/"
+      }
+    },
+    {
+      "id": "lb_curl_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=j8X3S98gOQE",
+        "label": "E3 Rehab — How to Grow Your Hamstrings",
+        "match": "family",
+        "variant_note": "This is the prone machine version, not a seated curl. Keep pelvis supported and follow the plan’s effort and dose."
+      },
+      "photo_alt": "Prone leg-curl machine.",
+      "caption": "Set the pad just above the heels and curl both knees.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-grow-your-hamstrings/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/08/Seated-and-Prone-Leg-Curls-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.507,
+        "y": 0.167,
+        "width": 0.445,
+        "height": 0.652
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-grow-your-hamstrings-18.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-grow-your-hamstrings/"
+      }
+    },
+    {
+      "id": "lb_calf_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "The source demonstrates the bent-knee family and equipment options. Use the seated machine with a floor-level stop; do not copy deficit heel lowering."
+      },
+      "photo_alt": "Seated bent-knee calf raise with feet on a flat floor.",
+      "caption": "Use floor-level feet and padded resistance on the thighs; dumbbells or machine may differ.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Seated-Knee-Bent-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.052,
+        "y": 0.177,
+        "width": 0.441,
+        "height": 0.629
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-28.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "lb_calf_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "Both feet on the floor, dumbbells padded on the thighs. Do not use the step/deficit variation."
+      },
+      "photo_alt": "Seated bent-knee calf raise with feet on a flat floor.",
+      "caption": "Use floor-level feet and padded resistance on the thighs; dumbbells or machine may differ.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Seated-Knee-Bent-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.052,
+        "y": 0.177,
+        "width": 0.441,
+        "height": 0.629
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-28.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "lb_adduct_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=Oj7IN952fSg",
+        "label": "Muscle & Strength — Hip Adduction Machine",
+        "match": "family",
+        "variant_note": "Bilateral seated machine, pads inside the thighs; keep the opening range comfortable. Machine adjustments vary."
+      },
+      "photo_alt": "Seated hip-adduction machine, knees moving together.",
+      "caption": "Move the thighs inward through a comfortable arc.",
+      "creator": "Women’s Health Taiwan / Hearst",
+      "source_url": "https://www.womenshealthmag.com/tw/fitness/work-outs/g43382298/inner-outer-thigh/",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/39-6422c492a6ea2.png?crop=1xw:1xh;center,top",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1600,
+      "image_height": 800,
+      "photo_path": "assets/lower/hip-adduction.jpg",
+      "credit": {
+        "name": "Women’s Health Taiwan / Hearst",
+        "url": "https://www.womenshealthmag.com/tw/fitness/work-outs/g43382298/inner-outer-thigh/"
+      }
+    },
+    {
+      "id": "lb_adduct_alternative",
+      "reference": {
+        "url": "https://www.orthoinfo.org/recovery/hip-conditioning-program/",
+        "label": "AAOS OrthoInfo — Hip Conditioning Program",
+        "match": "family",
+        "variant_note": "Side-lying, top leg crossed forward, bottom leg lifts. This plan uses its own repetitions and effort, not the source’s holds or progression."
+      },
+      "photo_alt": "Side-lying hip adduction lifting the lower leg.",
+      "caption": "Support the upper leg comfortably; lift the lower leg. A helper is pictured but not required.",
+      "creator": "Fullphysio",
+      "source_url": "https://ressources.fullphysio.com/exercices-kinesitherapie/hanche-renforcement-adducteurs-de-hanche",
+      "image_url": "https://assets-global.website-files.com/63bd78370bba4f620274acb8/6408d6f48f29901ea890d49f_60f68cd99cd345ce6878534f_2609056809_Moment.jpeg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/lower/adduction-side.jpg",
+      "credit": {
+        "name": "Fullphysio",
+        "url": "https://ressources.fullphysio.com/exercices-kinesitherapie/hanche-renforcement-adducteurs-de-hanche"
+      }
+    },
+    {
+      "id": "lb_hip_flex_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "Reference uses a foot-loop band and an alternating march. This option uses a low cable ankle cuff, bent knee and stable hand support, one side at a time."
+      },
+      "photo_alt": "Standing resisted hip flexion with one knee lifted.",
+      "caption": "The photo shows a band; use a low cable ankle cuff and stable hand support in this plan.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/groin-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/07/Standing-Hip-Flexion.jpg?fit=%2C&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/lower/groin-pain-rehab-39.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/groin-pain-rehab/"
+      }
+    },
+    {
+      "id": "lb_hip_flex_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "Use the unresisted supported march described in the source. Lift only to a comfortable height."
+      },
+      "photo_alt": "Bodyweight marching with one knee lifted.",
+      "caption": "Use stable hand support and a comfortable knee height.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/groin-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/07/Hip-Flexion-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.036,
+        "y": 0.173,
+        "width": 0.277,
+        "height": 0.564
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/groin-pain-rehab-40.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/groin-pain-rehab/"
+      }
+    },
+    {
+      "id": "lb_abs_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=C_nsk6PRSp0",
+        "label": "E3 Rehab — Abdominal Muscle Strain",
+        "match": "family",
+        "variant_note": "Source uses an overhead handhold and larger pelvic curl. Here arms stay beside the body, knees remain bent and the pelvic curl is small; do not add overhead shoulder loading or leg swing."
+      },
+      "photo_alt": "Reverse crunch with bent knees and hands on the floor.",
+      "caption": "Curl the pelvis a little off the floor; use a smaller motion for the swap.",
+      "creator": "Muscle & Fitness",
+      "source_url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch/",
+      "image_url": "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2014/02/719_B.jpg?quality=86&strip=all",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 800,
+      "photo_path": "assets/lower/reverse-b.jpg",
+      "credit": {
+        "name": "Muscle & Fitness",
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch/"
+      }
+    },
+    {
+      "id": "lb_abs_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=C_nsk6PRSp0",
+        "label": "E3 Rehab — Abdominal Muscle Strain",
+        "match": "family",
+        "variant_note": "Source uses an overhead handhold and larger pelvic curl. Here arms stay beside the body, knees remain bent and the pelvic curl is small; do not add overhead shoulder loading or leg swing."
+      },
+      "photo_alt": "Reverse crunch with bent knees and hands on the floor.",
+      "caption": "Curl the pelvis a little off the floor; use a smaller motion for the swap.",
+      "creator": "Muscle & Fitness",
+      "source_url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch/",
+      "image_url": "https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2014/02/719_B.jpg?quality=86&strip=all",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 800,
+      "photo_path": "assets/lower/reverse-b.jpg",
+      "credit": {
+        "name": "Muscle & Fitness",
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch/"
+      }
+    },
+    {
+      "id": "lb_evert_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=0fsR5-oqcVU",
+        "label": "E3 Rehab — Peroneal Tendinopathy",
+        "match": "family",
+        "variant_note": "Band across the forefoot, stabilize the leg, move the foot outward. Follow the plan’s resistance and dose."
+      },
+      "photo_alt": "Seated band ankle eversion.",
+      "caption": "Move the forefoot outward without rotating the whole leg.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/peroneal/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Banded-Eversion-1024x576.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/peroneal-17.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/peroneal/"
+      }
+    },
+    {
+      "id": "lb_evert_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=0fsR5-oqcVU",
+        "label": "E3 Rehab — Peroneal Tendinopathy",
+        "match": "family",
+        "variant_note": "Same outward foot movement, using a lighter band and shorter range; prevent whole-leg rotation."
+      },
+      "photo_alt": "Seated band ankle eversion.",
+      "caption": "Move the forefoot outward without rotating the whole leg.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/peroneal/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Banded-Eversion-1024x576.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/peroneal-17.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/peroneal/"
+      }
+    },
+    {
+      "id": "uc_row_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "Shoulder Dislocation & Instability Rehab — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The selected option uses one-arm bench/hand support and a comfortable wrist; exact support and elbow path were not frame-audited."
+      },
+      "photo_alt": "One-arm dumbbell row with the other hand supported.",
+      "caption": "Use a stable bench or rack; keep the torso controlled.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/biceps-tendinopathy/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/01/Rows-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/one-arm-row.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/biceps-tendinopathy/"
+      }
+    },
+    {
+      "id": "uc_row_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "Shoulder Dislocation & Instability Rehab — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Exact bench angle, grip and simultaneous side execution were not frame-audited; follow the site’s both-arms-together prescription."
+      },
+      "photo_alt": "Chest-supported dumbbell row on an incline bench.",
+      "caption": "Keep the chest supported while rowing both dumbbells.",
+      "creator": "Off The Leash Lifestyle",
+      "source_url": "https://www.offtheleashlifestyle.com/training-videos/chest-supported-db-row",
+      "image_url": "https://cdn.prod.website-files.com/6226b0b761dfde8cb23709d2/6477ea3a207382e77f042cad_OTL-Chest-Supported-DB-Row.jpeg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1280,
+      "image_height": 720,
+      "photo_path": "assets/upper/incline-row.jpeg",
+      "credit": {
+        "name": "Off The Leash Lifestyle",
+        "url": "https://www.offtheleashlifestyle.com/training-videos/chest-supported-db-row"
+      }
+    },
+    {
+      "id": "uc_pushup_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "The official article explicitly gives hands-elevated push-ups as an easier variant. Select the site’s stable surface height and optional neutral-wrist handles; the video’s floor version is not required."
+      },
+      "photo_alt": "Push-up with hands on an elevated bench.",
+      "caption": "Use a stable height and handles if needed; higher is easier.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.09.05-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.005,
+        "y": 0.258,
+        "width": 0.332,
+        "height": 0.474
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/push-up.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "uc_pushup_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "The official article explicitly gives hands-elevated push-ups as an easier variant. Select the site’s stable surface height and optional neutral-wrist handles; the video’s floor version is not required."
+      },
+      "photo_alt": "Push-up with hands on an elevated bench.",
+      "caption": "Use a stable height and handles if needed; higher is easier.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.09.05-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.005,
+        "y": 0.258,
+        "width": 0.332,
+        "height": 0.474
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/push-up.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "uc_fly_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Weighted prone-T family reference. The site specifies an incline chest support and soft elbows; exact bench angle and grip were not frame-audited."
+      },
+      "photo_alt": "Chest-supported dumbbell reverse fly.",
+      "caption": "Lift the arms out to the sides. Bend the elbows more for the short-lever swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/731409249",
+      "image_url": "https://i.vimeocdn.com/video/1472043712-7eef408654695a9edc242db7a82152d169d2e3df58a0dd55aef4f1f5dc51d76a-d?f=webp&region=us",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-731409249.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/731409249"
+      }
+    },
+    {
+      "id": "uc_fly_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The site deliberately shortens the lever by bending elbows. A prone-T clip is a family reference, not proof of this exact short-lever variant."
+      },
+      "photo_alt": "Chest-supported dumbbell reverse fly.",
+      "caption": "Lift the arms out to the sides. Bend the elbows more for the short-lever swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/731409249",
+      "image_url": "https://i.vimeocdn.com/video/1472043712-7eef408654695a9edc242db7a82152d169d2e3df58a0dd55aef4f1f5dc51d76a-d?f=webp&region=us",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-731409249.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/731409249"
+      }
+    },
+    {
+      "id": "uc_er_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. At-side cable external rotation is explicitly described in the official article. Optional towel/support and individual range come from the site; this does not imply a verified timestamp or personalized clearance."
+      },
+      "photo_alt": "Anchored shoulder external rotation with elbow at the side.",
+      "caption": "Same rotation pattern; use a cable at elbow height and support the elbow if needed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.05.02-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.338,
+        "y": 0.072,
+        "width": 0.646,
+        "height": 0.802
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/cuff-external.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "uc_er_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Anchored band external rotation with the elbow near the side is explicitly covered by the official article. This is not the two-hands-held loop-band warm-up."
+      },
+      "photo_alt": "Light-band shoulder external rotation at the side.",
+      "caption": "Rotate away from the anchor while keeping your elbow beside your ribs.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/731414914",
+      "image_url": "https://i.vimeocdn.com/video/1472053605-7596757ad125482b5a186bb8aa50fe10b9d9d69ed8263a1a9d08774cc4b65ae9-d?f=webp&region=us",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-731414914.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/731414914"
+      }
+    },
+    {
+      "id": "uc_curl_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Retain simultaneous arms, neutral forearms and no swinging; do not silently alternate arms."
+      },
+      "photo_alt": "Simultaneous dumbbell hammer curl with neutral grip.",
+      "caption": "Keep thumbs up and curl both weights together.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/959200792",
+      "image_url": "https://i.vimeocdn.com/video/1871508772-e81eaf2e73b6b486b464c19d1f865faa1e478a174d8ae1edbeb958b281741ca6-d?f=webp&region=us",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-959200792.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/959200792"
+      }
+    },
+    {
+      "id": "uc_curl_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Hammer-grip curl family reference; the demonstrated dumbbells are not an exact match for the site’s cable rope equipment substitute."
+      },
+      "photo_alt": "Simultaneous cable rope curl.",
+      "caption": "Keep a neutral grip and curl both hands together.",
+      "creator": "Virgin Active Australia",
+      "source_url": "https://www.virginactive.com.au/blog/articles/trainer-tips-to-build-your-biceps",
+      "image_url": "https://assets-us-01.kc-usercontent.com/a07c5ec0-e08a-0014-c8c5-a7a73768c21f/8c09dc49-a7f7-462b-9f65-3e7763242cce/Rope%20bicep%20curls.png?auto=format&fm=jpg&q=85&w=1200",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 846,
+      "image_height": 476,
+      "photo_path": "assets/upper/rope-curl.jpg",
+      "credit": {
+        "name": "Virgin Active Australia",
+        "url": "https://www.virginactive.com.au/blog/articles/trainer-tips-to-build-your-biceps"
+      }
+    },
+    {
+      "id": "uc_triceps_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=7Q-VrNGgM2U",
+        "label": "Triceps Tendinopathy — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Use both arms together here; the accompanying E3 article also discusses one-arm versions and a different dose, which are not this prescription."
+      },
+      "photo_alt": "Standing cable triceps pressdown.",
+      "caption": "Keep upper arms near your sides and straighten the elbows.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/959227856",
+      "image_url": "https://i.vimeocdn.com/video/1871542311-27f74964031487f2319588be706836be15f2885bc58de8c1be24fce8f25a9b99-d?f=webp&region=us",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-959227856.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/959227856"
+      }
+    },
+    {
+      "id": "uc_triceps_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=7Q-VrNGgM2U",
+        "label": "Triceps Tendinopathy — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Band equipment adaptation of the pressdown family. The exact bilateral high-band setup is not frame-verified; use the site’s secure anchor, both-arm and elbow-arc instructions."
+      },
+      "photo_alt": "Standing band triceps pressdown.",
+      "caption": "Band anchored high; elbows stay near the ribs.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/triceps/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/TricepExercises.jpg?resize=750%2C422&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.504,
+        "width": 0.491,
+        "height": 0.486
+      },
+      "image_width": 750,
+      "image_height": 422,
+      "photo_path": "assets/upper/triceps.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/triceps/"
+      }
+    },
+    {
+      "id": "uc_rotation_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The site specifies a supported, short/light lever and one full neutral→palm-up→palm-down→neutral cycle; dose and lever size are site-specific."
+      },
+      "photo_alt": "Supported forearm rotation holding a light dumbbell lever.",
+      "caption": "Rotate palm up and palm down; keep the elbow and forearm supported.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/09/Supination-and-Pronation-Strengthening-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.003,
+        "width": 0.492,
+        "height": 0.49
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/forearm-rotation.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "uc_rotation_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=nyyY81RzNCQ&t=961s",
+        "label": "Wrist Pain Rehab — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. The site specifies a supported, short/light lever and one full neutral→palm-up→palm-down→neutral cycle; dose and lever size are site-specific."
+      },
+      "photo_alt": "Supported forearm rotation holding a light dumbbell lever.",
+      "caption": "Rotate palm up and palm down; keep the elbow and forearm supported.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/09/Supination-and-Pronation-Strengthening-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.003,
+        "y": 0.003,
+        "width": 0.492,
+        "height": 0.49
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/upper/forearm-rotation.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "uc_abs_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=C_nsk6PRSp0",
+        "label": "Abdominal Muscle Strain — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Official article includes standing trunk rotation with cable/band. It describes a steadier pelvis; this site permits comfortable hip/foot pivot and shorter arm reach to avoid wrenching a planted knee. No exact matching clip was verified."
+      },
+      "photo_alt": "Standing resisted trunk rotation.",
+      "caption": "Use a controlled, small rotation; the photo shows a band version.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/abdominal-muscle-strain/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-08-11-at-11.11.43-AM-1024x578.png?resize=800%2C452&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.057,
+        "y": 0.34,
+        "width": 0.271,
+        "height": 0.493
+      },
+      "image_width": 800,
+      "image_height": 452,
+      "photo_path": "assets/upper/rotation.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/abdominal-muscle-strain/"
+      }
+    },
+    {
+      "id": "uc_abs_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=C_nsk6PRSp0",
+        "label": "Abdominal Muscle Strain — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Official article includes standing trunk rotation with cable/band. It describes a steadier pelvis; this site permits comfortable hip/foot pivot and shorter arm reach to avoid wrenching a planted knee. No exact matching clip was verified."
+      },
+      "photo_alt": "Standing resisted trunk rotation.",
+      "caption": "Use a controlled, small rotation; the photo shows a band version.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/abdominal-muscle-strain/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-08-11-at-11.11.43-AM-1024x578.png?resize=800%2C452&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.057,
+        "y": 0.34,
+        "width": 0.271,
+        "height": 0.493
+      },
+      "image_width": 800,
+      "image_height": 452,
+      "photo_path": "assets/upper/rotation.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/abdominal-muscle-strain/"
+      }
+    },
+    {
+      "id": "lc_lateral_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=sKZcTjlxk-Q",
+        "label": "E3 Rehab — Return to Sport Rehab for Knee, Hip & Ankle Injuries",
+        "match": "family",
+        "variant_note": "Reference shows a lateral lunge in a sport progression. Here use a fixed wide stance, stable hand support and a shallow side-to-side weight shift; no push-back, jump, speed or return-to-sport progression."
+      },
+      "photo_alt": "Supported lateral squat with one knee bending.",
+      "caption": "Use a shallower lateral shift than shown if needed; hold a stable support.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/06/Assisted-Lateral-Squat.jpg?fit=1920%2C1080&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/support/Assisted-Lateral-Squat.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/"
+      }
+    },
+    {
+      "id": "lc_lateral_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=sKZcTjlxk-Q",
+        "label": "E3 Rehab — Return to Sport Rehab for Knee, Hip & Ankle Injuries",
+        "match": "family",
+        "variant_note": "Reference shows a lateral lunge in a sport progression. Here use a fixed wide stance, stable hand support and a shallow side-to-side weight shift; no push-back, jump, speed or return-to-sport progression."
+      },
+      "photo_alt": "Supported lateral squat with one knee bending.",
+      "caption": "Use a shallower lateral shift than shown if needed; hold a stable support.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/06/Assisted-Lateral-Squat.jpg?fit=1920%2C1080&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/support/Assisted-Lateral-Squat.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/"
+      }
+    },
+    {
+      "id": "lc_extension_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=_95-vz83X4M",
+        "label": "E3 Rehab — How to Perform Leg Extensions",
+        "match": "family",
+        "variant_note": "Bilateral seated machine leg extension. Match the machine pivot to the knee and follow this plan’s range, load and effort."
+      },
+      "photo_alt": "Leg-extension machine with knees extending against the pad.",
+      "caption": "Use your comfortable arc; lighter and shorter for the swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-perform-leg-extensions/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2025/07/Locking-Out-Knees-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-perform-leg-extensions-13.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-perform-leg-extensions/"
+      }
+    },
+    {
+      "id": "lc_extension_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=_95-vz83X4M",
+        "label": "E3 Rehab — How to Perform Leg Extensions",
+        "match": "family",
+        "variant_note": "Same machine movement with less load and a shorter comfortable arc."
+      },
+      "photo_alt": "Leg-extension machine with knees extending against the pad.",
+      "caption": "Use your comfortable arc; lighter and shorter for the swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-perform-leg-extensions/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2025/07/Locking-Out-Knees-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-perform-leg-extensions-13.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-perform-leg-extensions/"
+      }
+    },
+    {
+      "id": "lc_back_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=j8X3S98gOQE",
+        "label": "E3 Rehab — How to Grow Your Hamstrings",
+        "match": "family",
+        "variant_note": "Hip-hinge version: pad below hip crease, knees slightly bent, trunk controlled. Stop upright rather than hyperextending the back."
+      },
+      "photo_alt": "45-degree back extension on a Roman chair.",
+      "caption": "Hinge at the hips and stop at a straight body line; use a shorter unloaded arc for the swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-grow-your-hamstrings/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/08/Hip-Extension-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.565,
+        "y": 0.217,
+        "width": 0.376,
+        "height": 0.577
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-grow-your-hamstrings-14.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-grow-your-hamstrings/"
+      }
+    },
+    {
+      "id": "lc_back_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=j8X3S98gOQE",
+        "label": "E3 Rehab — How to Grow Your Hamstrings",
+        "match": "family",
+        "variant_note": "Same hip-hinge movement, unloaded or assisted through a shorter arc. Hand assistance and shortened range are this plan’s modification."
+      },
+      "photo_alt": "45-degree back extension on a Roman chair.",
+      "caption": "Hinge at the hips and stop at a straight body line; use a shorter unloaded arc for the swap.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-grow-your-hamstrings/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/08/Hip-Extension-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.565,
+        "y": 0.217,
+        "width": 0.376,
+        "height": 0.577
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-grow-your-hamstrings-14.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-grow-your-hamstrings/"
+      }
+    },
+    {
+      "id": "lc_calf_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "The floor-level standing movement is shown. Machine setup varies: use both legs with a floor-level heel stop. Do not copy step/deficit variants or lower the heel below the forefoot."
+      },
+      "photo_alt": "Bilateral straight-knee calf raise from a flat floor.",
+      "caption": "Rise and lower from floor level. Add tolerable load only as prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Standing-Knee-Straight-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.018,
+        "y": 0.146,
+        "width": 0.21,
+        "height": 0.704
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-26.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "lc_calf_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "Use stable hand support and flat ground. This plan does not use the later step/deficit progression."
+      },
+      "photo_alt": "Bilateral straight-knee calf raise from a flat floor.",
+      "caption": "Rise and lower from floor level. Add tolerable load only as prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Standing-Knee-Straight-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.018,
+        "y": 0.146,
+        "width": 0.21,
+        "height": 0.704
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-26.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "lc_curl_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=j8X3S98gOQE",
+        "label": "E3 Rehab — How to Grow Your Hamstrings",
+        "match": "family",
+        "variant_note": "Use the seated machine setup and comfortable range. Follow this plan’s dose and effort rather than copying video programming."
+      },
+      "photo_alt": "Seated leg-curl machine setup.",
+      "caption": "Keep the thigh pad secure; bend both knees against the resistance.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-grow-your-hamstrings/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/08/Seated-Hamstring-Curl-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-grow-your-hamstrings-32.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-grow-your-hamstrings/"
+      }
+    },
+    {
+      "id": "lc_curl_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=j8X3S98gOQE",
+        "label": "E3 Rehab — How to Grow Your Hamstrings",
+        "match": "family",
+        "variant_note": "This is the prone machine version, not a seated curl. Keep pelvis supported and follow the plan’s effort and dose."
+      },
+      "photo_alt": "Prone leg-curl machine.",
+      "caption": "Set the pad just above the heels and curl both knees.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-grow-your-hamstrings/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/08/Seated-and-Prone-Leg-Curls-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.507,
+        "y": 0.167,
+        "width": 0.445,
+        "height": 0.652
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-grow-your-hamstrings-18.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-grow-your-hamstrings/"
+      }
+    },
+    {
+      "id": "lc_abduct_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=7pbZA7ncuq8",
+        "label": "Muscle & Strength — Hip Abduction Machine",
+        "match": "family",
+        "variant_note": "Bilateral seated machine; select the starting width and range for comfort. Machine controls vary."
+      },
+      "photo_alt": "Seated hip-abduction machine, knees moving apart.",
+      "caption": "Sit comfortably and move the thighs outward.",
+      "creator": "Women’s Health Taiwan / Hearst",
+      "source_url": "https://www.womenshealthmag.com/tw/fitness/work-outs/g43382298/inner-outer-thigh/",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/41-6422c48ce6ecd.png",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1600,
+      "image_height": 800,
+      "photo_path": "assets/lower/hip-machines.jpg",
+      "credit": {
+        "name": "Women’s Health Taiwan / Hearst",
+        "url": "https://www.womenshealthmag.com/tw/fitness/work-outs/g43382298/inner-outer-thigh/"
+      }
+    },
+    {
+      "id": "lc_abduct_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "The reference demonstrates standing hip abduction with cable resistance. This option uses a light band and stable hand support; stay upright and move one leg outward."
+      },
+      "photo_alt": "Supported standing hip abduction.",
+      "caption": "Use a light band for this swap; the photo shows cable resistance.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/groin-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/07/Cable-Column-Hip-Abduction-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/groin-pain-rehab-29.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/groin-pain-rehab/"
+      }
+    },
+    {
+      "id": "lc_abs_default",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mSD_YfYfy7c",
+        "label": "E3 Rehab — Quadratus Lumborum Rehab",
+        "match": "family",
+        "variant_note": "A light dumbbell in one hand; modest controlled side bend. No overhead arm position or forced depth is needed."
+      },
+      "photo_alt": "Dumbbell side bend with the other arm by the side.",
+      "caption": "Use one light weight and a small comfortable side bend.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/quadratus-lumborum-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/11/Side-Bend-Arm-Overhead-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.005,
+        "y": 0.005,
+        "width": 0.487,
+        "height": 0.987
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/quadratus-lumborum-rehab-18.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/quadratus-lumborum-rehab/"
+      }
+    },
+    {
+      "id": "lc_abs_alternative",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=q0QyCrpiNgI",
+        "label": "PureGym — How to Do Side Crunches",
+        "match": "family",
+        "variant_note": "Source uses bent knees rotated to one side from a partly supine position. This plan’s side-lying oblique crunch uses a short comfortable arc without a held weight. Follow the card setup rather than forcing the demo’s torso position."
+      },
+      "photo_alt": "Side-lying oblique crunch.",
+      "caption": "Gently lift the upper shoulder toward the hip.",
+      "creator": "Rehab Hero / David Song",
+      "source_url": "https://www.rehabhero.ca/exercise/side-crunch",
+      "image_url": "https://static1.squarespace.com/static/5f5e8592d2b0854b18af6975/5fb7c850d4788b5df8d8af32/5fdd1629b3db9b16d5855f06/1647645121296/Side%2BCrunch.jpg?format=1500w",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 846,
+      "image_height": 634,
+      "photo_path": "assets/lower/side-crunch.jpg",
+      "credit": {
+        "name": "Rehab Hero / David Song",
+        "url": "https://www.rehabhero.ca/exercise/side-crunch"
+      }
+    },
+    {
+      "id": "la_calf_unilateral",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "One leg at a time with hand support; floor-level range. Do not copy the later step variation. Dose is per side."
+      },
+      "photo_alt": "Supported single-leg calf raise from a flat floor.",
+      "caption": "Use hand support. Lower only to floor level.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Standing-Knee-Straight-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.265,
+        "y": 0.146,
+        "width": 0.2,
+        "height": 0.704
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-26.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "ub_pulldown_band",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "Shoulder Dislocation & Instability Rehab — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Verify high anchor security and follow both-arms-together dosing; exact bilateral anchor arrangement was not frame-audited."
+      },
+      "photo_alt": "Seated bilateral band pulldown.",
+      "caption": "Secure the band overhead; pull both elbows down.",
+      "creator": "RISE Active",
+      "source_url": "https://www.riseactive.ca/blog/3-steps-to-overcoming-gym-hesitation",
+      "image_url": "https://cdn.prod.website-files.com/6568b8bb967a97cef862895b/6673338c093cf8ed53ec2936_IMG_6141.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2295,
+      "image_height": 2295,
+      "photo_path": "assets/upper/band-pulldown.jpg",
+      "credit": {
+        "name": "RISE Active",
+        "url": "https://www.riseactive.ca/blog/3-steps-to-overcoming-gym-hesitation"
+      }
+    },
+    {
+      "id": "ub_abs_band",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=rRV5Q85hCMs",
+        "label": "Spondylolisthesis — exercise options — E3 Rehab",
+        "match": "family",
+        "variant_note": "The official article describes standing band Pallof press at chest height with repeated outward press and return. Use the site’s own dose and comfortable arm reach."
+      },
+      "photo_alt": "Standing Pallof press with resistance pulling from the side.",
+      "caption": "Press straight ahead without turning; shorten the reach if prescribed.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/spondylolisthesis/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Untitled-design-14.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/upper/pallof.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/spondylolisthesis/"
+      }
+    },
+    {
+      "id": "uc_fly_band",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "Rotator Cuff Exercises — E3 Rehab",
+        "match": "family",
+        "variant_note": "Broader E3 movement reference; the exact selected setup is not demonstrated at a verified timestamp. Follow the site’s stable stance, soft elbows and controlled stop near the trunk; do not force a larger behind-body arc."
+      },
+      "photo_alt": "Standing band reverse fly at shoulder level.",
+      "caption": "Keep the movement controlled in a comfortable range.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rotator-cuff-exercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Screen-Shot-2022-07-22-at-3.07.01-PM-1024x574.png?resize=800%2C448&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.255,
+        "y": 0.307,
+        "width": 0.249,
+        "height": 0.474
+      },
+      "image_width": 800,
+      "image_height": 448,
+      "photo_path": "assets/upper/band-reverse-fly.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rotator-cuff-exercises/"
+      }
+    },
+    {
+      "id": "lc_extension_band",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=_95-vz83X4M",
+        "label": "E3 Rehab — How to Perform Leg Extensions",
+        "match": "family",
+        "variant_note": "Source demonstrates band knee-extension alternatives and discusses heavy-band partials. This plan uses two independently anchored bands and both knees together through a comfortable arc. Do not copy heavy end-range loading or the source’s exact band setup."
+      },
+      "photo_alt": "Seated band knee extension demonstrated one leg at a time.",
+      "caption": "The plan uses both legs together with matched bands; secure the anchors behind.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-perform-leg-extensions/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2025/07/Banded-Leg-Extension-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/how-to-perform-leg-extensions-16.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-perform-leg-extensions/"
+      }
+    },
+    {
+      "id": "lc_back_prone",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mSD_YfYfy7c",
+        "label": "E3 Rehab — Quadratus Lumborum Rehab",
+        "match": "family",
+        "variant_note": "Source explicitly permits lifting the upper body only with arms at the sides. Here feet stay down and the chest makes small controlled lift-and-lower repetitions, not the source’s sustained hold or arm/leg lift."
+      },
+      "photo_alt": "Small prone upper-body lift with arms beside the body.",
+      "caption": "Keep the legs down and make a small controlled trunk lift.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/quadratus-lumborum-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/11/Prone-Superman-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.343,
+        "y": 0.271,
+        "width": 0.312,
+        "height": 0.508
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/quadratus-lumborum-rehab-24.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/quadratus-lumborum-rehab/"
+      }
+    },
+    {
+      "id": "ua_floor_press_floor",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=JMAScWzf7n0",
+        "label": "Movement technique",
+        "match": "family",
+        "variant_note": "Follow the setup, comfortable range and dose shown in this plan."
+      },
+      "photo_alt": "Dumbbell floor press with knees bent.",
+      "caption": "Optional floor-press variation; elbows stop at the floor.",
+      "creator": "E3 Rehab",
+      "source_url": "https://www.youtube.com/watch?v=JMAScWzf7n0",
+      "image_url": "https://i.ytimg.com/vi/JMAScWzf7n0/maxresdefault.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1280,
+      "image_height": 720,
+      "photo_path": "assets/upper/yt-floor-press.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://www.youtube.com/watch?v=JMAScWzf7n0"
+      }
+    },
+    {
+      "id": "ua_serratus_default",
+      "reference": {
+        "url": "https://e3rehab.com/rhomboidexercises/",
+        "label": "Movement technique",
+        "match": "family",
+        "variant_note": "Follow the setup, comfortable range and dose shown in this plan."
+      },
+      "photo_alt": "Forearm wall slide with a towel.",
+      "caption": "Slide up within a comfortable range while maintaining forearm contact.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rhomboidexercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Forward-Wall-Slide-1024x576.png?resize=800%2C450&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/support/1_Forward-Wall-Slide-1024x576.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rhomboidexercises/"
+      }
+    },
+    {
+      "id": "ua_serratus_alternative",
+      "reference": {
+        "url": "https://e3rehab.com/rhomboidexercises/",
+        "label": "Movement technique",
+        "match": "family",
+        "variant_note": "Follow the setup, comfortable range and dose shown in this plan."
+      },
+      "photo_alt": "Forearm wall-slide position.",
+      "caption": "Same movement with the light band specified in the swap; band not pictured.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rhomboidexercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Forward-Wall-Slide-1024x576.png?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/support/1_Forward-Wall-Slide-1024x576.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rhomboidexercises/"
+      }
+    },
+    {
+      "id": "prep_cardio_upper",
+      "reference": {
+        "url": "https://www.orthoinfo.org/recovery/hip-conditioning-program/",
+        "label": "AAOS OrthoInfo — Hip Conditioning Program",
+        "match": "family",
+        "variant_note": "Reference explicitly names easy walking or stationary cycling as preparation. Use this plan’s short duration and easy effort; this is an activity reference, not a separate therapeutic protocol."
+      },
+      "photo_alt": "Easy pedalling on a stationary bike.",
+      "caption": "Keep this conversational and easy; adjust the bike to your comfort.",
+      "creator": "Hospital for Special Surgery",
+      "source_url": "https://www.hss.edu/health-library/move-better/set-up-exercise-bike",
+      "image_url": "https://www.hss.edu/globalassets/images/movebetter/body-positioning-1.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 780,
+      "image_height": 500,
+      "photo_path": "assets/support/body-positioning-1.jpg",
+      "credit": {
+        "name": "Hospital for Special Surgery",
+        "url": "https://www.hss.edu/health-library/move-better/set-up-exercise-bike"
+      }
+    },
+    {
+      "id": "prep_wrist",
+      "reference": {
+        "url": "https://www.leedsth.nhs.uk/patients/resources/the-hand-and-wrist/",
+        "label": "Leeds Teaching Hospitals NHS Trust — Hand and Wrist: Important exercises",
+        "match": "family",
+        "variant_note": "Active wrist movement with supported forearm. This is not a static stretch or assisted end-range hold; follow the card’s timed movement or repetition dose."
+      },
+      "photo_alt": "Unloaded wrist movement with an open hand.",
+      "caption": "Gently bend and straighten the wrist. Add slow palm-up/palm-down cycles for the home option.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Warm-Up-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.503,
+        "y": 0.005,
+        "width": 0.492,
+        "height": 0.486
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/support/active-wrist.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "prep_fingers",
+      "reference": {
+        "url": "https://www.leedsth.nhs.uk/patients/resources/the-hand-and-wrist/",
+        "label": "Leeds Teaching Hospitals NHS Trust — Hand and Wrist: Important exercises",
+        "match": "family",
+        "variant_note": "Open and close both hands gently. No forceful squeezing or added grip load."
+      },
+      "photo_alt": "Closed-fist and open-hand positions.",
+      "caption": "Open and close gently; keep the wrist comfortable.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Warm-Up-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.005,
+        "y": 0.005,
+        "width": 0.99,
+        "height": 0.486
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/support/active-wrist.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "prep_elevation",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=b7yQwf-K7z0",
+        "label": "E3 Rehab — How to Improve Your Shoulder Range of Motion",
+        "match": "family",
+        "variant_note": "Reference illustrates active arm elevation as a measurement. Here it is an easy unloaded movement, both arms as comfortable, with no measurement, forced height, painful click or catch."
+      },
+      "photo_alt": "Active shoulder elevation demonstrated from the side.",
+      "caption": "Raise only through your comfortable arc; reaching the photographed endpoint is not required.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/shoulder-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/C1306.00_02_54_06.Still018-1024x576.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.012,
+        "y": 0.177,
+        "width": 0.225,
+        "height": 0.614
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/support/C1306.00_02_54_06.Still018-1024x576.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/shoulder-range-of-motion/"
+      }
+    },
+    {
+      "id": "prep_band_er",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=mO8YJAxVG2M",
+        "label": "E3 Rehab — Rotator Cuff Exercises",
+        "match": "family",
+        "variant_note": "Band held between both hands, elbows near the sides, both forearms rotate outward. No fixed anchor; keep it easy and use the warm-up dose."
+      },
+      "photo_alt": "Bilateral external rotation using a loop band between the hands.",
+      "caption": "Keep elbows near the ribs and use very light tension.",
+      "creator": "E3 Rehab",
+      "source_url": "https://vimeo.com/861881942",
+      "image_url": "https://i.vimeocdn.com/video/1720549927-2e343dfe0eb9f889320e2c7e64bf914434a0e7a23b04499b8af3932af80eccf8-d?f=webp&region=us",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 3840,
+      "image_height": 2160,
+      "photo_path": "assets/upper/vimeo-861881942.webp",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://vimeo.com/861881942"
+      }
+    },
+    {
+      "id": "transition_first_lift",
+      "reference": null
+    },
+    {
+      "id": "prep_cardio_lower",
+      "reference": {
+        "url": "https://www.orthoinfo.org/recovery/hip-conditioning-program/",
+        "label": "AAOS OrthoInfo — Hip Conditioning Program",
+        "match": "family",
+        "variant_note": "Reference explicitly names easy walking or stationary cycling as preparation. Use this plan’s short duration and easy effort; this is an activity reference, not a separate therapeutic protocol."
+      },
+      "photo_alt": "Easy pedalling on a stationary bike.",
+      "caption": "Keep this conversational and easy; adjust the bike to your comfort.",
+      "creator": "Hospital for Special Surgery",
+      "source_url": "https://www.hss.edu/health-library/move-better/set-up-exercise-bike",
+      "image_url": "https://www.hss.edu/globalassets/images/movebetter/body-positioning-1.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 780,
+      "image_height": 500,
+      "photo_path": "assets/support/body-positioning-1.jpg",
+      "credit": {
+        "name": "Hospital for Special Surgery",
+        "url": "https://www.hss.edu/health-library/move-better/set-up-exercise-bike"
+      }
+    },
+    {
+      "id": "prep_squat",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "Unweighted rehearsal with optional support and comfortable depth. Ignore added-load progressions during preparation."
+      },
+      "photo_alt": "Unweighted squat rehearsal.",
+      "caption": "Use a comfortable depth and easy pace.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/groin-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/07/Bodyweight-Squat-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.357,
+        "y": 0.207,
+        "width": 0.279,
+        "height": 0.583
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/lower/groin-pain-rehab-41.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/groin-pain-rehab/"
+      }
+    },
+    {
+      "id": "prep_hinge",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=j8X3S98gOQE",
+        "label": "E3 Rehab — How to Grow Your Hamstrings",
+        "match": "family",
+        "variant_note": "Unloaded standing rehearsal of the hip hinge; the source shows loaded variations. Keep knees soft and stop at a comfortable depth."
+      },
+      "photo_alt": "Unweighted hip-hinge rehearsal shown from the side.",
+      "caption": "Send the hips back; use both feet evenly. Photo demonstrates a staggered stance.",
+      "creator": "On Target Publications / Evan Osar",
+      "source_url": "https://www.otpbooks.com/evan-osar-maintaining-hip-mobility/evan-oasr-hip-mobility-hip-hinge-progression-1/",
+      "image_url": "https://cdn.otpbooks.com/2019/03/06140625/evan-oasr-hip-mobility-hip-hinge-progression-1-768x703.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 768,
+      "image_height": 703,
+      "photo_path": "assets/support/unweighted-hip-hinge.jpg",
+      "credit": {
+        "name": "On Target Publications / Evan Osar",
+        "url": "https://www.otpbooks.com/evan-osar-maintaining-hip-mobility/evan-oasr-hip-mobility-hip-hinge-progression-1/"
+      }
+    },
+    {
+      "id": "prep_ankle_shift",
+      "reference": {
+        "url": "https://www.plymouthhospitals.nhs.uk/display-pil/pil-ankle-sprain-injury-3960/",
+        "label": "University Hospitals Plymouth NHS Trust — Knee to Wall Stretch",
+        "match": "family",
+        "variant_note": "Reference is a sustained knee-to-wall stretch. Here use small repeated supported weight shifts, heel supported, without forcing heel-attachment stretch."
+      },
+      "photo_alt": "Supported forward ankle weight shift with the heel on the floor.",
+      "caption": "Shift only slightly forward; no need to touch the wall or force a stretch.",
+      "creator": "West End Physio",
+      "source_url": "https://westendphysio.com/weekly-exercises/knee-to-wall-ankle-exercise/",
+      "image_url": "https://westendphysio.com/wp-content/uploads/2023/09/knee-to-wall-2-scaled.jpg",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 2560,
+      "photo_path": "assets/support/ankle-shift.jpg",
+      "credit": {
+        "name": "West End Physio",
+        "url": "https://westendphysio.com/weekly-exercises/knee-to-wall-ankle-exercise/"
+      }
+    },
+    {
+      "id": "prep_calf",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=DnxahqgsAEw",
+        "label": "E3 Rehab — Achilles Tendinopathy",
+        "match": "family",
+        "variant_note": "Use stable hand support and flat ground. This plan does not use the later step/deficit progression."
+      },
+      "photo_alt": "Easy bilateral calf raise from a flat floor.",
+      "caption": "Use hand support and stop the lowering at floor level.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/achilles/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/Standing-Knee-Straight-Heel-Raise-Progression-2-1024x576-1.jpg?resize=800%2C450&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.018,
+        "y": 0.146,
+        "width": 0.21,
+        "height": 0.704
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/lower/achilles-26.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/achilles/"
+      }
+    },
+    {
+      "id": "finish_shoulder_flexion",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "E3 Rehab — Shoulder Dislocation & Instability Rehab",
+        "match": "family",
+        "variant_note": "Reference explicitly offers arms supported on an elevated surface with gentle rocking. Here use forearms on a bench/table and a comfortable rock-back; no forced end range. This reference is not a diagnosis of shoulder instability."
+      },
+      "photo_alt": "Kneeling supported shoulder-flexion stretch using a bench.",
+      "caption": "Use forearm support if wrists prefer it and move only as far as comfortable.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/shoulder-instability/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/04/C0606.00_10_27_24.Still016-scaled.jpeg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.341,
+        "y": 0.397,
+        "width": 0.3,
+        "height": 0.359
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/support/C0606.00_10_27_24.Still016-scaled.jpeg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/shoulder-instability/"
+      }
+    },
+    {
+      "id": "finish_wrist_active",
+      "reference": {
+        "url": "https://www.leedsth.nhs.uk/patients/resources/the-hand-and-wrist/",
+        "label": "Leeds Teaching Hospitals NHS Trust — Hand and Wrist: Important exercises",
+        "match": "family",
+        "variant_note": "Active wrist movement with supported forearm. This is not a static stretch or assisted end-range hold; follow the card’s timed movement or repetition dose."
+      },
+      "photo_alt": "Unloaded wrist movement with an open hand.",
+      "caption": "Gently bend and straighten the wrist. Add slow palm-up/palm-down cycles for the home option.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Warm-Up-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.503,
+        "y": 0.005,
+        "width": 0.492,
+        "height": 0.486
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/support/active-wrist.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "finish_hip_rotation",
+      "reference": {
+        "url": "https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/total-hip-replacement-exercise-pack",
+        "label": "Royal National Orthopaedic Hospital — Hip Rotation exercises",
+        "match": "family",
+        "variant_note": "Reference illustrates rotating the thigh while keeping the knee steady, in a supported standing/chair position. This plan does it seated with the thigh supported; foot moves inward and outward without twisting the pelvis."
+      },
+      "photo_alt": "Supported seated hip internal and external rotation.",
+      "caption": "Keep the thigh supported and move the lower leg slowly.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/06/Seated-IR-and-ER.jpg?fit=1920%2C1080&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/support/Seated-IR-and-ER.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/"
+      }
+    },
+    {
+      "id": "finish_hip_flexor",
+      "reference": {
+        "url": "https://www.dynamichealth.nhs.uk/help-and-advice/hip-pain/femoral-acetabular-impingement/",
+        "label": "NHS Dynamic Health — Hip flexor stretch",
+        "match": "family",
+        "variant_note": "Half kneeling, gently tuck the pelvis and shift forward only enough for a comfortable stretch. The duration comes from this plan; the page’s condition label is not a diagnosis."
+      },
+      "photo_alt": "Half-kneeling hip-flexor stretch with the rear knee padded.",
+      "caption": "Use hand support if needed; stay upright without forcing depth.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/06/Hip-Flexor-Stretch-9.jpg?fit=1920%2C1080&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/support/Hip-Flexor-Stretch-9.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/"
+      }
+    },
+    {
+      "id": "finish_thoracic",
+      "reference": {
+        "url": "https://www.nhs.uk/live-well/exercise/sitting-exercises/",
+        "label": "NHS — Sitting exercises: Upper-body twist",
+        "match": "family",
+        "variant_note": "Seated, arms crossed, pelvis stays facing forward; turn comfortably both ways. Use this plan’s moving repetitions rather than the source’s held dose."
+      },
+      "photo_alt": "Seated thoracic rotation with arms crossed.",
+      "caption": "Turn gently while keeping hips facing forward.",
+      "creator": "NHS",
+      "source_url": "https://www.nhs.uk/live-well/exercise/sitting-exercises/",
+      "image_url": "https://assets.nhs.uk/nhsuk-cms/images/NHSC_0118_upper-body-twist.width-320.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 320,
+      "image_height": 221,
+      "photo_path": "assets/support/NHSC_0118_upper-body-twist.width-320.jpg",
+      "credit": {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/live-well/exercise/sitting-exercises/"
+      }
+    },
+    {
+      "id": "finish_shoulder_flexion_long",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=fbV6EpgXIaw",
+        "label": "E3 Rehab — Shoulder Dislocation & Instability Rehab",
+        "match": "family",
+        "variant_note": "Reference explicitly offers arms supported on an elevated surface with gentle rocking. Here use forearms on a bench/table and a comfortable rock-back; no forced end range. This reference is not a diagnosis of shoulder instability."
+      },
+      "photo_alt": "Kneeling supported shoulder-flexion stretch using a bench.",
+      "caption": "Use forearm support if wrists prefer it and move only as far as comfortable.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/shoulder-instability/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/04/C0606.00_10_27_24.Still016-scaled.jpeg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.341,
+        "y": 0.397,
+        "width": 0.3,
+        "height": 0.359
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/support/C0606.00_10_27_24.Still016-scaled.jpeg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/shoulder-instability/"
+      }
+    },
+    {
+      "id": "finish_adductor",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=NsZRuAHF7sI",
+        "label": "Muscle & Strength — Lateral Kneeling Adductor Mobilization",
+        "match": "family",
+        "variant_note": "Source uses hands on the floor. Here forearms may rest on a stable bench to reduce wrist/shoulder demand; one leg goes out to the side and hips rock back only comfortably."
+      },
+      "photo_alt": "Adductor rock-back with one leg extended to the side.",
+      "caption": "Rock back gently; choose forearm or elevated support if your wrists prefer it.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/06/Adductor-Rock-back-2.jpg?fit=1920%2C1080&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/support/Adductor-Rock-back-2.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/"
+      }
+    },
+    {
+      "id": "finish_elevation",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=b7yQwf-K7z0",
+        "label": "E3 Rehab — How to Improve Your Shoulder Range of Motion",
+        "match": "family",
+        "variant_note": "Reference illustrates active arm elevation as a measurement. Here it is an easy unloaded movement, both arms as comfortable, with no measurement, forced height, painful click or catch."
+      },
+      "photo_alt": "Active shoulder elevation demonstrated from the side.",
+      "caption": "Raise only through your comfortable arc; reaching the photographed endpoint is not required.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/shoulder-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/C1306.00_02_54_06.Still018-1024x576.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.012,
+        "y": 0.177,
+        "width": 0.225,
+        "height": 0.614
+      },
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/support/C1306.00_02_54_06.Still018-1024x576.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/shoulder-range-of-motion/"
+      }
+    },
+    {
+      "id": "finish_wrist_long",
+      "reference": {
+        "url": "https://www.leedsth.nhs.uk/patients/resources/the-hand-and-wrist/",
+        "label": "Leeds Teaching Hospitals NHS Trust — Hand and Wrist: Important exercises",
+        "match": "family",
+        "variant_note": "Active wrist movement with supported forearm. This is not a static stretch or assisted end-range hold; follow the card’s timed movement or repetition dose."
+      },
+      "photo_alt": "Unloaded wrist movement with an open hand.",
+      "caption": "Gently bend and straighten the wrist. Add slow palm-up/palm-down cycles for the home option.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Warm-Up-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.503,
+        "y": 0.005,
+        "width": 0.492,
+        "height": 0.486
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/support/active-wrist.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "mobility_spine",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=x71Y5ijW4DU",
+        "label": "E3 Rehab — Low Back Pain Rehab",
+        "match": "family",
+        "variant_note": "Source describes cat-cow spinal flexion/extension. Here perform it seated with hands on thighs, gently rounding and unrounding the back; avoid hand-supported quadruped loading."
+      },
+      "photo_alt": "Seated spinal flexion and extension.",
+      "caption": "Round and extend gently within a comfortable range.",
+      "creator": "Precision Movement",
+      "source_url": "https://www.precisionmovement.coach/office-spine-care-exercises/",
+      "image_url": "https://www.precisionmovement.coach/wp-content/uploads/2019/06/office-spine-care-exercise-3-Segmental-Spine-Flexion-Extension.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 700,
+      "image_height": 700,
+      "photo_path": "assets/support/seated-spine.jpg",
+      "credit": {
+        "name": "Precision Movement",
+        "url": "https://www.precisionmovement.coach/office-spine-care-exercises/"
+      }
+    },
+    {
+      "id": "finish_toes",
+      "reference": {
+        "url": "https://www.dynamichealth.nhs.uk/help-and-advice/foot-or-ankle-pain/plantar-fasciitis/",
+        "label": "NHS Dynamic Health — Toe Extension Stretch",
+        "match": "family",
+        "variant_note": "Gently assist toe extension with fingertips; ankle remains comfortable. Use this plan’s short hold and ignore other calf/step exercises elsewhere on the page."
+      },
+      "photo_alt": "Gentle hand-supported toe extension.",
+      "caption": "Move the toes gently; avoid pulling into pain.",
+      "creator": "Rehab My Patient (via Swan Medical Group)",
+      "source_url": "https://www.swanmedicalgroup.co.uk/physiotherapy-msk/foot-pain-plantar-fascia-pain/",
+      "image_url": "https://www.swanmedicalgroup.co.uk/wp-content/uploads/2024/05/toe-stretch.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 850,
+      "image_height": 850,
+      "photo_path": "assets/support/toe-stretch.jpg",
+      "credit": {
+        "name": "Rehab My Patient (via Swan Medical Group)",
+        "url": "https://www.swanmedicalgroup.co.uk/physiotherapy-msk/foot-pain-plantar-fascia-pain/"
+      }
+    },
+    {
+      "id": "finish_ankle_active",
+      "reference": {
+        "url": "https://www.asph.nhs.uk/therapies-exercise",
+        "label": "Ashford and St Peters Hospitals NHS — Developing Exercise Tolerance",
+        "match": "family",
+        "variant_note": "Ankle circles in both directions with the leg supported; use the timed dose on this card."
+      },
+      "photo_alt": "Seated unloaded ankle circles.",
+      "caption": "Draw slow circles; support the leg and keep the movement easy.",
+      "creator": "Ask Doctor Jo",
+      "source_url": "https://www.youtube.com/watch?v=mzTQGYGI0Ng",
+      "image_url": "https://i.ytimg.com/vi/mzTQGYGI0Ng/sddefault.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 640,
+      "image_height": 480,
+      "photo_path": "assets/support/ankle-circles.jpg",
+      "credit": {
+        "name": "Ask Doctor Jo",
+        "url": "https://www.youtube.com/watch?v=mzTQGYGI0Ng"
+      }
+    },
+    {
+      "id": "home_march",
+      "reference": {
+        "url": "https://www.nhs.uk/live-well/exercise/how-to-warm-up-before-exercising/",
+        "label": "NHS — How to warm up before exercising",
+        "match": "family",
+        "variant_note": "Easy marching or walking for the card’s short duration. Keep effort conversational; not a fitness test."
+      },
+      "photo_alt": "Easy marching on the spot.",
+      "caption": "Use comfortable knee height and an easy rhythm.",
+      "creator": "NHS",
+      "source_url": "https://www.nhs.uk/live-well/exercise/how-to-warm-up-before-exercising/",
+      "image_url": "https://assets.nhs.uk/nhsuk-cms/images/NHSC_0318_marching-on-spot_1_3P2A1490.original.width-320.jpg",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 320,
+      "image_height": 480,
+      "photo_path": "assets/support/NHSC_0318_marching-on-spot_1_3P2A1490.original.width-320.jpg",
+      "credit": {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/live-well/exercise/how-to-warm-up-before-exercising/"
+      }
+    },
+    {
+      "id": "home_wall_slide",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=jO6ANTgAULU",
+        "label": "E3 Rehab — Rhomboid Exercises",
+        "match": "family",
+        "variant_note": "Forward-facing forearm wall slide. Source adds a pillowcase and outward tension; this home option omits those and uses easy unloaded sliding without forced height or back arch."
+      },
+      "photo_alt": "Forearm-supported wall slide with a towel.",
+      "caption": "Slide only within your comfortable range.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/rhomboidexercises/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Forward-Wall-Slide-1024x576.png?resize=800%2C450&ssl=1",
+      "match": "exact",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/support/1_Forward-Wall-Slide-1024x576.png",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/rhomboidexercises/"
+      }
+    },
+    {
+      "id": "home_wrist_rotation",
+      "reference": {
+        "url": "https://www.leedsth.nhs.uk/patients/resources/the-hand-and-wrist/",
+        "label": "Leeds Teaching Hospitals NHS Trust — Hand and Wrist: Important exercises",
+        "match": "family",
+        "variant_note": "Combines the two active movements in the source: forearm rotation followed by wrist flexion/extension. No weight or passive stretch."
+      },
+      "photo_alt": "Unloaded wrist movement with an open hand.",
+      "caption": "Gently bend and straighten the wrist. Add slow palm-up/palm-down cycles for the home option.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/wrist-pain-rehab/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/10/Warm-Up-Options-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "crop": {
+        "x": 0.503,
+        "y": 0.005,
+        "width": 0.492,
+        "height": 0.486
+      },
+      "image_width": 2560,
+      "image_height": 1440,
+      "photo_path": "assets/support/active-wrist.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/wrist-pain-rehab/"
+      }
+    },
+    {
+      "id": "home_hip_flexor",
+      "reference": {
+        "url": "https://www.dynamichealth.nhs.uk/help-and-advice/hip-pain/femoral-acetabular-impingement/",
+        "label": "NHS Dynamic Health — Hip flexor stretch",
+        "match": "family",
+        "variant_note": "Half kneeling, gently tuck the pelvis and shift forward only enough for a comfortable stretch. The duration comes from this plan; the page’s condition label is not a diagnosis."
+      },
+      "photo_alt": "Half-kneeling hip-flexor stretch with the rear knee padded.",
+      "caption": "Use hand support if needed; stay upright without forcing depth.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2024/06/Hip-Flexor-Stretch-9.jpg?fit=1920%2C1080&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 1920,
+      "image_height": 1080,
+      "photo_path": "assets/support/Hip-Flexor-Stretch-9.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/how-to-improve-your-hip-range-of-motion/"
+      }
+    },
+    {
+      "id": "home_deadbug",
+      "reference": {
+        "url": "https://www.youtube.com/watch?v=6Z_vCGwOuOk",
+        "label": "E3 Rehab — Groin Pain Rehab",
+        "match": "family",
+        "variant_note": "Source starts with alternating leg extensions. Here keep arms by the body, knees bent and the moving leg’s lever short; lower only as far as the trunk stays comfortable."
+      },
+      "photo_alt": "Short-lever dead-bug starting position.",
+      "caption": "Keep knees bent and move one heel at a time.",
+      "creator": "E3 Rehab",
+      "source_url": "https://e3rehab.com/spondylolisthesis/",
+      "image_url": "https://i0.wp.com/e3rehab.com/wp-content/uploads/2023/02/1_Untitled-design.jpg?resize=800%2C450&ssl=1",
+      "match": "family",
+      "rights_info": "Copyright remains with the credited publisher or creator. Publicly accessible reference image; no open license or separate reuse permission verified.",
+      "image_width": 800,
+      "image_height": 450,
+      "photo_path": "assets/upper/deadbug-easy.jpg",
+      "credit": {
+        "name": "E3 Rehab",
+        "url": "https://e3rehab.com/spondylolisthesis/"
+      }
+    }
+  ]
+}
