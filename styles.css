@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}@media print{body{background:white}.site-header,.routine-nav,.level-row,.side-panel,footer,.attention,dialog{display:none}.shell{max-width:none;padding:0}.page-grid{display:block}.exercise{break-inside:avoid}.exercise summary{display:none}.exercise-list{gap:10px}.time-block{display:none}}
 
 [hidden]{display:none!important}.demo-photo{display:block;width:100%;height:100%;overflow:hidden;background:white}.demo-photo-large{display:block;width:100%;height:300px;overflow:hidden;background:white;border:1px solid var(--line);border-radius:10px;margin:12px 0}.image-credit{margin-left:16px;font-size:.8125rem}.exercise-category{font-size:.75rem}.level-description{font-size:.875rem}.nav-time{font-size:.8125rem}@media(min-width:701px){.exercise-meta{font-size:.875rem}}
+
+html{overflow-x:clip}
