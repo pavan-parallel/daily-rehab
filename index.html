@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#2458e8">
+  <meta name="description" content="Simple upper-body, lower-body and home rehab routines. Exercise demonstrations, gentle starting options and clear progressions.">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Daily Rehab — strength & mobility</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232458e8'/%3E%3Cpath d='M16 40h10V26h12V16h10M16 48h32' fill='none' stroke='white' stroke-width='6' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="content.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#routine">Skip to exercises</a>
+  <header class="site-header"><a class="brand" href="#upper" aria-label="Daily Rehab home"><span class="brand-icon" aria-hidden="true">dr<span>•</span></span>daily rehab</a><button class="text-button" id="guide-button">How to use</button></header>
+  <main class="shell">
+    <nav class="routine-nav" aria-label="Choose your routine">
+      <button data-routine="upper" aria-pressed="true"><span class="nav-index">01</span><span>Upper body</span><span class="nav-time">Under 30 min</span></button>
+      <button data-routine="lower" aria-pressed="false"><span class="nav-index">02</span><span>Lower body</span><span class="nav-time">Under 30 min</span></button>
+      <button data-routine="home" aria-pressed="false"><span class="nav-index">03</span><span>At home</span><span class="nav-time">About 10 min</span></button>
+    </nav>
+    <div class="page-grid">
+      <section id="routine" aria-labelledby="routine-title" tabindex="-1">
+        <div class="routine-heading"><div><p class="eyebrow" id="routine-focus">SHOULDER · ELBOW · WRIST</p><h1 id="routine-title">Upper body</h1><p id="routine-intro">Your rehab and mobility, before your own workout.</p></div><div class="time-block"><strong id="routine-time">18–22</strong><span>minutes</span></div></div>
+        <div class="level-row"><label for="level">Your starting point</label><select id="level"><option value="start">Ease in · 1 set</option><option value="build">Build · selected 2nd sets</option></select></div>
+        <p class="level-description" id="level-description"></p>
+        <div id="attention" class="attention"></div>
+        <div class="prep"><span class="prep-label">FIRST · 2 MIN</span><p id="prep-copy"></p></div>
+        <div id="exercise-list" class="exercise-list" aria-live="polite"></div>
+        <div class="finish"><span class="finish-mark" aria-hidden="true">✓</span><div><h2 id="finish-title">Then, your workout.</h2><p id="finish-copy">Choose your own lifts. Keep the combined effort repeatable tomorrow.</p></div></div>
+      </section>
+      <aside class="side-panel">
+        <section class="rule-card"><p class="eyebrow">THE SIMPLE RULES</p><h2>A little, consistently.</h2><ul><li><strong>Leave a few reps.</strong><span>Finish with 3–4 good reps still possible. Keep more in reserve as you restart.</span></li><li><strong>Move comfortably.</strong><span>No forcing a stretch or pushing through a painful catch.</span></li><li><strong>Check tomorrow.</strong><span>Your usual daily movements should feel no worse.</span></li></ul><button class="text-button inline-link" id="progress-button">When to progress</button></section>
+        <section class="week-card"><h2>Make it a rhythm.</h2><p>Upper with upper. Lower with lower. Usually twice each per week, with a day between demanding sessions for the same area.</p><p class="muted">Home is an easy option on non-gym days. Rest is also fine.</p></section>
+        <p class="side-note">Your main strength workout stays yours.<br>No check-ins. Nothing to log.</p>
+      </aside>
+    </div>
+    <footer><div><strong>Built for the long run.</strong><p>Independent reference, adapted from E3 Rehab and selected ATG principles.</p></div><div class="footer-links"><button class="text-button" id="sources-button">Sources & notes</button><a href="daily-rehab.zip" download>Download a copy</a></div></footer>
+  </main>
+  <dialog id="info-dialog" aria-labelledby="dialog-title"><div class="dialog-top"><h2 id="dialog-title"></h2><button class="close-button" aria-label="Close" id="close-dialog">×</button></div><div id="dialog-body"></div></dialog>
+  <noscript><p class="noscript">Enable JavaScript to choose a routine and view exercise instructions. This site does not store personal data.</p></noscript>
+</body>
+</html>
